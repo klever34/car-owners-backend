@@ -10,6 +10,10 @@ app.use(bodyParser.json());
 app.use(morgan("dev"));
 app.use(cors());
 
+app.get("/", async (req, res) => {
+  return res.json("Welcome Home 🌚");
+});
+
 app.get("/cars", async (req, res) => {
   try {
     const cars = await db("car");
