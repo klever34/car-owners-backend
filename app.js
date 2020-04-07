@@ -19,7 +19,7 @@ app.get("/cars", async (req, res) => {
     const cars = await db("car");
     res.json({ cars });
   } catch (error) {
-    console.log(error)
+    return error
   }
 });
 
@@ -29,7 +29,7 @@ app.post("/cars/find", async (req, res) => {
     const cars = await db('car').select("*").where('car_model_year', query.start_year).andWhere('gender', query.gender).whereIn('car_color', query.colors).whereIn('country', query.countries);
     res.json({ cars });
   } catch (error) {
-    console.log(error)
+    return error;
   }
 });
 
