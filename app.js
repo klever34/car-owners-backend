@@ -4,6 +4,7 @@ const morgan = require("morgan");
 const db = require("./data/db.js");
 const app = express();
 const cors = require('cors');
+var port = process.env.PORT || 3000;
 
 app.use(bodyParser.json());
 app.use(morgan("dev"));
@@ -20,6 +21,6 @@ app.post("/cars/find", async (req, res) => {
   res.json({ cars });
 });
 
-app.listen(3000, ()=>{
+app.listen(port, ()=>{
     console.log("🚀 live on port 3000");
 });
