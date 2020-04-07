@@ -1,0 +1,68 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 12640343982525787594 (0xaf6b85e175322dca)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=ng, ST=lagos, L=lag/emailAddress=lanresamuel2002@gmail.com
+        Validity
+            Not Before: Apr  7 01:33:40 2020 GMT
+            Not After : Apr  7 01:33:40 2021 GMT
+        Subject: C=ng, ST=lagos, L=lag/emailAddress=lanresamuel2002@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cd:03:e3:77:97:8d:18:c5:b9:a2:e4:58:9f:2c:
+                    0a:26:5c:2d:f6:d9:3b:22:30:20:23:cf:0c:73:17:
+                    d0:0d:65:6f:bf:fb:4e:7f:3d:dc:28:fc:45:d9:93:
+                    d0:b6:8a:60:d1:7f:30:df:28:a5:23:34:ef:22:f8:
+                    1d:1f:ca:65:94:2a:e2:d0:93:c3:70:9b:4d:99:2f:
+                    34:72:42:b4:6e:80:52:c7:9d:b4:bc:99:f5:7e:98:
+                    ca:80:32:8d:36:41:37:d8:3b:e8:5e:2c:45:e4:4b:
+                    ba:a8:ed:f0:99:af:06:bb:e7:29:a1:45:e6:10:5b:
+                    3e:9b:16:0a:aa:c6:9b:9d:a1:55:bb:b0:7e:96:3e:
+                    a4:af:f6:62:f2:5d:c8:9f:bd:b9:54:b6:b4:48:80:
+                    ee:aa:3c:9f:19:78:ed:3e:05:6e:5f:89:ae:eb:cf:
+                    79:b0:81:7b:41:8a:69:40:57:3d:e7:ee:d6:85:0d:
+                    0d:f1:b8:0e:ba:b0:e0:d8:5b:84:06:86:42:fe:38:
+                    78:5c:54:b3:63:c6:42:90:6a:53:e5:d6:d7:40:3c:
+                    5c:7f:15:16:48:b2:89:fb:7b:6a:a4:49:1b:8b:b2:
+                    2a:c5:73:60:4b:29:d9:48:cb:a4:2c:5d:9b:e4:e2:
+                    6a:0e:0f:f6:97:7f:17:58:5e:ce:54:42:21:1e:af:
+                    4f:8b
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha256WithRSAEncryption
+         af:a2:01:9b:58:2a:5e:18:79:39:58:ac:0e:4e:d3:13:14:6e:
+         97:f5:fa:83:18:51:47:c6:b6:3b:8f:f9:ae:b4:db:19:83:24:
+         e2:ad:e1:99:8a:8e:1d:52:68:97:8f:b1:bf:eb:3b:46:b2:f4:
+         e5:6c:98:46:ba:9b:c2:c4:d3:68:19:c3:8a:b2:bd:f7:9a:39:
+         6e:71:3b:ad:ca:55:c0:03:1f:85:1d:d8:a6:fa:b6:9d:ca:d8:
+         b3:c9:4b:8f:03:ca:cc:fe:df:ba:2c:1d:82:91:e7:5d:5e:46:
+         fa:d2:d1:fc:66:fa:13:2e:cd:67:9a:ab:01:ee:93:4e:8e:4e:
+         b8:70:09:a1:39:aa:2e:4e:d5:99:d4:4e:aa:c2:69:bd:33:94:
+         c5:10:a0:a1:31:88:48:6d:59:09:34:11:46:1f:c6:15:8b:d9:
+         dc:ac:ae:b4:29:bc:d1:88:5a:27:63:ba:9f:ad:24:bd:2b:b2:
+         f0:92:a1:6f:e0:51:f5:60:98:9b:19:16:65:5c:ec:be:a4:c2:
+         2a:8c:88:3f:13:02:a1:60:aa:ba:27:0f:94:19:55:dd:6d:76:
+         b0:e8:e2:64:5c:29:00:ac:69:a7:86:76:8f:ed:02:f1:1e:a7:
+         5d:37:ac:ec:d1:a6:da:15:a1:85:03:e2:e9:c4:41:e3:3b:c6:
+         65:39:60:4d
+-----BEGIN CERTIFICATE-----
+MIIDJjCCAg4CCQCva4XhdTItyjANBgkqhkiG9w0BAQsFADBVMQswCQYDVQQGEwJu
+ZzEOMAwGA1UECAwFbGFnb3MxDDAKBgNVBAcMA2xhZzEoMCYGCSqGSIb3DQEJARYZ
+bGFucmVzYW11ZWwyMDAyQGdtYWlsLmNvbTAeFw0yMDA0MDcwMTMzNDBaFw0yMTA0
+MDcwMTMzNDBaMFUxCzAJBgNVBAYTAm5nMQ4wDAYDVQQIDAVsYWdvczEMMAoGA1UE
+BwwDbGFnMSgwJgYJKoZIhvcNAQkBFhlsYW5yZXNhbXVlbDIwMDJAZ21haWwuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzQPjd5eNGMW5ouRYnywK
+Jlwt9tk7IjAgI88McxfQDWVvv/tOfz3cKPxF2ZPQtopg0X8w3yilIzTvIvgdH8pl
+lCri0JPDcJtNmS80ckK0boBSx520vJn1fpjKgDKNNkE32DvoXixF5Eu6qO3wma8G
+u+cpoUXmEFs+mxYKqsabnaFVu7B+lj6kr/Zi8l3In725VLa0SIDuqjyfGXjtPgVu
+X4mu6895sIF7QYppQFc95+7WhQ0N8bgOurDg2FuEBoZC/jh4XFSzY8ZCkGpT5dbX
+QDxcfxUWSLKJ+3tqpEkbi7IqxXNgSynZSMukLF2b5OJqDg/2l38XWF7OVEIhHq9P
+iwIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQCvogGbWCpeGHk5WKwOTtMTFG6X9fqD
+GFFHxrY7j/mutNsZgyTireGZio4dUmiXj7G/6ztGsvTlbJhGupvCxNNoGcOKsr33
+mjlucTutylXAAx+FHdim+radytizyUuPA8rM/t+6LB2CkeddXkb60tH8ZvoTLs1n
+mqsB7pNOjk64cAmhOaouTtWZ1E6qwmm9M5TFEKChMYhIbVkJNBFGH8YVi9ncrK60
+KbzRiFonY7qfrSS9K7LwkqFv4FH1YJibGRZlXOy+pMIqjIg/EwKhYKq6Jw+UGVXd
+bXaw6OJkXCkArGmnhnaP7QLxHqddN6zs0abaFaGFA+LpxEHjO8ZlOWBN
+-----END CERTIFICATE-----
