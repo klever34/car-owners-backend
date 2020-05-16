@@ -25,8 +25,8 @@ app.get("/cars", async (req, res) => {
 
 app.post("/cars/find", async (req, res) => {
   try {
-    let query = req.body.data;
-    const cars = await db('car').select("*").where('car_model_year', query.start_year).andWhere('gender', query.gender).whereIn('car_color', query.colors).whereIn('country', query.countries);
+    let query = req.body;
+    const cars = await db('car').select("*").where('car_model_year', query.start_year).orWhere('gender', query.gender).whereIn('car_color', query.colors).whereIn('country', query.countries);
     res.json({ cars });
   } catch (error) {
     console.log(error)
