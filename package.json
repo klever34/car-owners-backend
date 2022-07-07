@@ -24,7 +24,7 @@
     "joi": "^13.1.1",
     "jsonwebtoken": "^8.1.1",
     "knex": "^0.20.13",
-    "moment": "^2.20.1",
+    "moment": "^2.29.4",
     "momentjs": "^2.0.0",
     "mongoose": "^5.0.1",
     "mongoose-data-seed": "^2.1.6",
